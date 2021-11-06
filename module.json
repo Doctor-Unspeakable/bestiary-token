@@ -11,7 +11,7 @@
     ],
   "styles": [],
   "packs": [],
-  "url": "https://github.com/zarmstrong/foundry-pathbuilder2e-import",
-  "manifest": "https://raw.githubusercontent.com/zarmstrong/foundry-pathbuilder2e-import/master/module.json",
-  "download": "https://github.com/zarmstrong/foundry-pathbuilder2e-import/releases/download/foundry-pathbuilder2e-import-0.2.4/foundry-pathbuilder2e-import-0.2.4.zip"
+  "url": "https://github.com/Doctor-Unspeakable/bestiary-token/",
+  "manifest": "https://raw.githubusercontent.com/Doctor-Unspeakable/bestiary-token/master/module.json",
+  "download": "https://github.com/Doctor-Unspeakable/bestiary-token/releases/download/archive/1.zip"
 }
