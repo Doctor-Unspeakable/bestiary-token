@@ -13,5 +13,5 @@
   "packs": [],
   "url": "https://github.com/Doctor-Unspeakable/bestiary-token/",
   "manifest": "https://raw.githubusercontent.com/Doctor-Unspeakable/bestiary-token/main/module.json",
-  "download": "https://github.com/Doctor-Unspeakable/bestiary-token/archive/4.zip"
+  "download": "https://github.com/Doctor-Unspeakable/bestiary-token/archive/refs/tags/BestiaryToken.zip"
 }
